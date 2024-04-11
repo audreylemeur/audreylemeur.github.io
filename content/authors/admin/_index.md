@@ -21,15 +21,18 @@ role: Computer Science Educator and Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Saint Paul Public Schools
+    url: spps.org
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Audrey Le Meur is a high school CS teacher and CS education researcher.
 
 # Interests to show in About widget
 interests:
   - K-12 Computer Science Education
+  - Gender in Computer Science
+  - Curriculum for broadening participation in computing
+  - Computer Science Teacher Pathways
   
 
 # Education to show in About widget
