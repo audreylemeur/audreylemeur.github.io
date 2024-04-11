@@ -29,10 +29,10 @@ bio: Audrey Le Meur is a high school CS teacher and CS education researcher.
 
 # Interests to show in About widget
 interests:
-  - K-12 Computer Science Education
-  - Gender in Computer Science
+  - K-12 computer science education
+  - Gender in computer science
   - Curriculum for broadening participation in computing
-  - Computer Science Teacher Pathways
+  - Computer science teacher pathways
   
 
 # Education to show in About widget
