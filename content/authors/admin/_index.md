@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Audrey Le Meur
+title: 吳健雄
 
 # Name pronunciation (optional)
 name_pronunciation: 
@@ -21,18 +21,15 @@ role: Computer Science Educator and Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Saint Paul Public Schools
-    url: spps.org
+  - name: Stanford University
+    url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Audrey Le Meur is a high school CS teacher and CS education researcher.
+bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
   - K-12 Computer Science Education
-  - Gender in Computer Science
-  - Curriculum for broadening participation in computing
-  - Computer Science Teacher Pathways
   
 
 # Education to show in About widget

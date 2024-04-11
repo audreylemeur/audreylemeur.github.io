@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Audrey Le Meur
+title: Audrey Le Meur# Website name
 baseURL: 'https://audreylemeur.github.io/' # Website URL
 
 ############################
